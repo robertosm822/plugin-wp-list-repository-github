@@ -1,0 +1,18 @@
+/* 
+   == FRONT END WP ================ 
+*/
+.list-rsm-ul{
+    font-size: 12px !important; 
+    text-transform: uppercase;
+    text-decoration: none; 
+    list-style: none;
+}
+.rsm-plg-img {
+    width: 50px;
+}
+.rsm-usuario {
+    font-size: 12px !important;
+}
+/*
+    =================================
+*/
